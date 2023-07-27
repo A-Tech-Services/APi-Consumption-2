@@ -45,13 +45,6 @@ const User = () => {
       </div>
     )
   }
-
-  return (
-    <div>
-        <h1>User Details</h1>
-        ID: {id}
-    </div>
-  )
 }
 
 export default User
